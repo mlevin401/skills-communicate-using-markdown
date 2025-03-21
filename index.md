@@ -13,3 +13,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var MyVar = "Hello, world!";
 ```
+- [ ] This is an action item
+- [x] This is an action item that has been complete
+- [ ] We need to do this
+- [ ] And this
